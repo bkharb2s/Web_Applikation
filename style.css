@@ -1,0 +1,21 @@
+body{
+    background-color: lightskyblue;
+}
+
+.messenger{
+    background-color: lightskyblue;
+}
+
+.clock{
+    background-color: lightskyblue;
+    margin-left: 37%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.calc{
+    background-color: lightskyblue;
+    margin-left: 22%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
